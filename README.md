@@ -2,12 +2,13 @@
 
 Projemde;
 
--Raspberry 
--PIR Sensörü
--Kamera
--Buzzer
--Jumper Kablo 
--Yeşil Led Işık 
+- Raspberry 
+- PIR Sensörü
+- Kamera
+- Buzzer
+- Jumper Kablo 
+- Yeşil Led Işık
+
 kullanarak bir güvenlik sistemi devresi yaptım.
 
 Yukarıda belirttiğim sensörleri ve malzemeleri kullanarak hareket algılandığında ekrana “Hareket Algılandı” iletisini belirterek bir ses uyarısı ve yeşil ışık uyarısı vermek istedim. Aynı zamanda hareket algılandıktan sonra kamera ile sensöre yakalanan kişinin fotoğrafı çekilecek ve e-posta adresine gönderilecek.
@@ -26,4 +27,7 @@ Daha sonra Raspberry üzerinden kodları yazdım.
 
 Kodları çalıştırdığımızda PIR sensör hareketi algılıyor ve bunun bilgisi ekranda yazdırılıyor. Hareket algılandığında kamera çalışmaya başlıyor ve fotoğrafı çekip e-posta adresine gönderiyor. Aynı zamanda Led ışığı yanıyor ve Buzzer’ dan ses çıkışı sağlanıyor.
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://drive.google.com/file/d/1mrqZSKMMtQ_0tChCJtdYYil1UJcGNtok/view?usp=share_link"Now in Android: 55")
+
+Videolu uygulama aşağıdadır.
+
+![alt text](https://drive.google.com/file/d/1mrqZSKMMtQ_0tChCJtdYYil1UJcGNtok/view?usp=share_link)
