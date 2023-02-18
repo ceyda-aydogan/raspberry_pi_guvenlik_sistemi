@@ -1,1 +1,1 @@
-# raspberry_pi_g-venlik_sistemi
+# raspberry_pi_guvenlik_sistemi
