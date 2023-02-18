@@ -2,7 +2,7 @@
 
 Projemde;
 
-- Raspberry 
+- Raspberry Pi 3 B+
 - PIR Sensörü
 - Kamera
 - Buzzer
@@ -28,6 +28,6 @@ Daha sonra Raspberry üzerinden kodları yazdım.
 Kodları çalıştırdığımızda PIR sensör hareketi algılıyor ve bunun bilgisi ekranda yazdırılıyor. Hareket algılandığında kamera çalışmaya başlıyor ve fotoğrafı çekip e-posta adresine gönderiyor. Aynı zamanda Led ışığı yanıyor ve Buzzer’ dan ses çıkışı sağlanıyor.
 
 
-Videolu uygulama aşağıdadır.
+Uygulamanın videosuna aşağıdaki linkten ulaşabilirsiniz.
 
-![alt text](https://drive.google.com/file/d/1mrqZSKMMtQ_0tChCJtdYYil1UJcGNtok/view?usp=share_link)
+https://drive.google.com/file/d/1SUKc92BkOEyZekXaKRULH-ZOAqgnMOnn/view?usp=share_link
