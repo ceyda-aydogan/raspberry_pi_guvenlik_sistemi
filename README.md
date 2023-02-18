@@ -28,5 +28,4 @@ Daha sonra Raspberry üzerinden kodları yazdım.
 Kodları çalıştırdığımızda PIR sensör hareketi algılıyor ve bunun bilgisi ekranda yazdırılıyor. Hareket algılandığında kamera çalışmaya başlıyor ve fotoğrafı çekip e-posta adresine gönderiyor. Aynı zamanda Led ışığı yanıyor ve Buzzer’ dan ses çıkışı sağlanıyor.
 
 
-Uygulamanın videosuna aşağıdaki bağlantıdan ulaşabilirsiniz.
-https://drive.google.com/file/d/1-kpvHAn-14KSiC4GFecO5TUOz67x79es/view?usp=sharing
+Uygulamanın videosuna bu bağlantıdan ulaşabilirsiniz: https://drive.google.com/file/d/1-kpvHAn-14KSiC4GFecO5TUOz67x79es/view?usp=sharing
