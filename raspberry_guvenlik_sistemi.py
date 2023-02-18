@@ -55,28 +55,4 @@ while True:
         server.sendmail.(me, toaddr, msg.as_string())
         server.quit()
         ledPin.off()
-        time.sleep(2)                     
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        time.sleep(2)                       
